@@ -123,7 +123,7 @@ hr {
 }
 
 #f h3 {
-  color: white;
+  color: #000;
   font-size: 28px;
   font-weight: 700;
   letter-spacing: 1px;
@@ -367,7 +367,7 @@ hr {
   animation: animate-loading 1s linear infinite;
 }
 
-.farme{
+.frame{
   text-align: center;
 }
 
